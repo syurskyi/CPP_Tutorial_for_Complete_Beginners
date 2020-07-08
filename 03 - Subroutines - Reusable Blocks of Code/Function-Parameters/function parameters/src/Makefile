@@ -1,3 +1,3 @@
 CC = c++
-app: break-continue.cpp
-	$(CC) break-continue.cpp -o break-continue
+app: functions.cpp
+	$(CC) functions.cpp -o functions
