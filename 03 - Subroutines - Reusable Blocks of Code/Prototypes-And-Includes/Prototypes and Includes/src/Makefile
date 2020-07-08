@@ -1,3 +1,3 @@
 CC = c++
-app: break-continue.cpp
-	$(CC) break-continue.cpp -o break-continue
+app: Prototypes_and_Includes.cpp
+	$(CC) Prototypes_and_Includes.cpp -o Prototypes_and_Includes
